@@ -1,6 +1,7 @@
-## Author Name:  Mr Thwin Htoo Aung
 ## Title: Immersive Learning through Augmented Reality for Children’s Quality Education
-## Date:             30.1.2024
+
+Author Name:  Mr Thwin Htoo Aung
+Date:             30.1.2024
   
   
 ## Abstract
@@ -42,5 +43,5 @@ Blender will be used for 3D modeling, which involves creating a three-dimensiona
 
 My app will be built on Unity Engine which allows developers to create apps that run across various platforms, including iOS, Android, Windows, macOS, and more.
 
-                                                  System Flow Diagram
+                          
 
